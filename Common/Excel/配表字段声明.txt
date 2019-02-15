@@ -1,0 +1,6 @@
+int  整形
+float 浮点
+double 双浮点
+string 字符串
+array1 一维数组，“|”分割，如a|b
+array2 二维数组，“#”、“|”分割，如a|b#c|d
